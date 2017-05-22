@@ -1,0 +1,6 @@
+C:\Users\ROOT\Documents\Visual Studio 2017\Projects\Database\Database\bin\Debug\Database.exe.config
+C:\Users\ROOT\Documents\Visual Studio 2017\Projects\Database\Database\bin\Debug\Database.exe
+C:\Users\ROOT\Documents\Visual Studio 2017\Projects\Database\Database\bin\Debug\Database.pdb
+C:\Users\ROOT\Documents\Visual Studio 2017\Projects\Database\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\ROOT\Documents\Visual Studio 2017\Projects\Database\Database\obj\Debug\Database.exe
+C:\Users\ROOT\Documents\Visual Studio 2017\Projects\Database\Database\obj\Debug\Database.pdb

@@ -1,0 +1,6 @@
+c:\users\root\documents\visual studio 2017\Projects\StopWatch\StopWatch\bin\Debug\StopWatch.exe.config
+c:\users\root\documents\visual studio 2017\Projects\StopWatch\StopWatch\bin\Debug\StopWatch.exe
+c:\users\root\documents\visual studio 2017\Projects\StopWatch\StopWatch\bin\Debug\StopWatch.pdb
+c:\users\root\documents\visual studio 2017\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.csprojResolveAssemblyReference.cache
+c:\users\root\documents\visual studio 2017\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.exe
+c:\users\root\documents\visual studio 2017\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.pdb

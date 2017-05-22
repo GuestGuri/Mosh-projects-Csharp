@@ -1,0 +1,6 @@
+c:\users\root\documents\visual studio 2017\Projects\WorkFlow\WorkFlow\bin\Debug\WorkFlow.exe.config
+c:\users\root\documents\visual studio 2017\Projects\WorkFlow\WorkFlow\bin\Debug\WorkFlow.exe
+c:\users\root\documents\visual studio 2017\Projects\WorkFlow\WorkFlow\bin\Debug\WorkFlow.pdb
+c:\users\root\documents\visual studio 2017\Projects\WorkFlow\WorkFlow\obj\Debug\WorkFlow.csprojResolveAssemblyReference.cache
+c:\users\root\documents\visual studio 2017\Projects\WorkFlow\WorkFlow\obj\Debug\WorkFlow.exe
+c:\users\root\documents\visual studio 2017\Projects\WorkFlow\WorkFlow\obj\Debug\WorkFlow.pdb

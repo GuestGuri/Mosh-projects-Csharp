@@ -1,0 +1,6 @@
+c:\users\root\documents\visual studio 2017\Projects\StackOverFlow\StackOverFlow\bin\Debug\StackOverFlow.exe.config
+c:\users\root\documents\visual studio 2017\Projects\StackOverFlow\StackOverFlow\bin\Debug\StackOverFlow.exe
+c:\users\root\documents\visual studio 2017\Projects\StackOverFlow\StackOverFlow\bin\Debug\StackOverFlow.pdb
+c:\users\root\documents\visual studio 2017\Projects\StackOverFlow\StackOverFlow\obj\Debug\StackOverFlow.csprojResolveAssemblyReference.cache
+c:\users\root\documents\visual studio 2017\Projects\StackOverFlow\StackOverFlow\obj\Debug\StackOverFlow.exe
+c:\users\root\documents\visual studio 2017\Projects\StackOverFlow\StackOverFlow\obj\Debug\StackOverFlow.pdb
